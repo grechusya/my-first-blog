@@ -25,7 +25,7 @@ SECRET_KEY = '(5g-k5hfvdgd)i&!mvg-xpr#+wjdt4a*_fxs^u*j30#iy*(%+m'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<grechka>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'grechka.pythonanywhere.com']
 
 
 # Application definition
